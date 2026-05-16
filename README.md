@@ -1,4 +1,4 @@
-# BCD Clock Counter
+# 7-Segment Display Driver
 
 ## Overview
 
